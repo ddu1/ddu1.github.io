@@ -80,7 +80,9 @@ $$
  \end{equation}
 $$ 
 
-which I called a **polarization** term, to the skip-gram model.
+which I called a **polarization** term, to the skip-gram model. The comparison is summarized in the following table.
+
+<center> <img src="{{ site.baseurl }}/images/compare.png" alt="alt text" width="600px"> </center>
 
 ### Improvement: PolarizedText
 
