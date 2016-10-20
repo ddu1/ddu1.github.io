@@ -95,6 +95,8 @@ To validate the algorithm, I hand labeled about 300 documents for the words that
 <center> <img src="{{ site.baseurl }}/images/roc.png" alt="alt text" width="600px"> </center>
 
 
+[slides](https://drive.google.com/open?id=0BwSXmTyntuo6dUdOVTJCSGFRZ0U)
+
 -----
 
 [Mikolov13] Tomáš Mikolov, Ilya Sutskever, Kai Chen, Greg S Corrado, and Jeff Dean. 2013b. Distributed representations of words and phrases and their compositionality. In Adv. NIPS
